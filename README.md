@@ -12,7 +12,7 @@ In this Project I learned how the GitHub/git workflow works. Further got to know
 **Screenshot:**
 
 <div>
-<img src = "./Screenshot/Bildschirmfoto 2019-11-11 um 18.25.54.png" width = "500">
+<img src = "./Screenshot/home-pic-playmode-mythirdscript-addnumbers-cs-dejan01.png" width = "500">
 
 **Lessons Learned:**
 This project taught me:
